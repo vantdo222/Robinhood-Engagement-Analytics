@@ -69,14 +69,6 @@ Stock features are engineered from daily returns to represent **product attribut
 - Generated correlation heatmaps and regression scatter plots  
 - Tested behavioral persistence using autocorrelation (ACF)  
 
-### 4. Modeling Framework
-Implemented 4 progressively rigorous models:
-
-1. **Naive Model** — returns only  
-2. **Multi-Factor Model** — adds volatility, momentum, drawdown  
-3. **Lagged Model** — adds prior returns and engagement (behavioral inertia)  
-4. **Full Causal Model** — adds market controls (SPY) + day-of-week effects  
-
 ---
 
 ## 📊 Key Findings  
